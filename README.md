@@ -2,7 +2,8 @@
 <h3 align="center">fullstack developer</h3>
 <h3 aling="center"> I’m currently learning :- (persuing BCA from GH RAISONI INSITUTE)</h3>
 <BODY>
-<H3>MARQUEE ALIGN="TOP"
+<H3>
+  <MARQUEE ALIGN="TOP"
   BGCOLOR="BLUE"
   DIRECTION="RIGHT"
   SCROLLDELAY="100"> FULLSTACK DEVLOPER</MARQUEE></H3>
