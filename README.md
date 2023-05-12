@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm TAIHAN N KHAN</h1>
-<h3 align="center">fullstack developer</h3>
+<h3 align="center">I'M CURRENTLY LEARNING WEB DEVELOPMENT</h3>
 <h3 aling="center"> I’m currently learning :- (persuing BCA from GH RAISONI INSITUTE)</h3>
-
-<H3>
-  <MARQUEE ALIGN="TOP"
-  BGCOLOR="BLUE"
-  DIRECTION="RIGHT"
-  SCROLLDELAY="100"> FULLSTACK DEVELOPER</MARQUEE>
-</H3>
  
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif">
 
