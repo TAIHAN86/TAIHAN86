@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm TAIHAN N KHAN</h1>
 <h3 align="center">fullstack developer</h3>
 <h3 aling="center"> I’m currently learning :- (persuing BCA from GH RAISONI INSITUTE)</h3>
-<BODY>
+
 <H3>
   <MARQUEE ALIGN="TOP"
   BGCOLOR="BLUE"
   DIRECTION="RIGHT"
-  SCROLLDELAY="100"> FULLSTACK DEVLOPER</MARQUEE></H3>
-  </BODY>
+  SCROLLDELAY="100"> FULLSTACK DEVELOPER</MARQUEE>
+</H3>
+ 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taihan86&label=Profile%20views&color=0e75b6&style=flat" alt="taihan86" /> </p>
