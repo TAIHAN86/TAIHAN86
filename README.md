@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TAIHAN N KHAN</h1>
+<h1 align="center">Hi 👋, I'm AMAN N KHAN</h1>
 <h3 align="center">I'M CURRENTLY LEARNING WEB DEVELOPMENT</h3>
 <h3 aling="center"> I’m currently learning :- (persuing BCA from GH RAISONI INSITUTE)</h3>
  
