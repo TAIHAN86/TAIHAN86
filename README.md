@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMAN N KHAN</h1>
 <h3 align="center">I'M CURRENTLY LEARNING WEB DEVELOPMENT</h3>
-<h3 aling="center"> I’m currently learning :- (persuing BCA from GH RAISONI INSITUTE)</h3>
- 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taihan86&label=Profile%20views&color=0e75b6&style=flat" alt="taihan86" /> </p>
@@ -33,8 +31,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TAIHAN86&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TAIHAN86&icon=7&color=1)](https://visitcount.itsvg.in)
