@@ -31,7 +31,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=TAIHAN86&icon=7&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM website ( https://gprm.itsvg.in ) -->
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taihan86&show_icons=true&locale=en&layout=compact" alt="taihan86" /></p>
