@@ -1,5 +1,5 @@
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif">
+<img align="right" alt="coding" width="390" src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taihan86&label=Profile%20views&color=0e75b6&style=flat" alt="taihan86" /> </p>
 
@@ -28,7 +28,7 @@
 
 
 
----
+
 [![](https://visitcount.itsvg.in/api?id=TAIHAN86&icon=7&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM website ( https://gprm.itsvg.in ) -->
