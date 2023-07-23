@@ -24,20 +24,4 @@
 
 # ✍️ Random Dev Quotes<hr>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TAIHAN86&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taihan_86) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ taihan-khan-ba7472246) 
-
-
-
-
-
-[![](https://visitcount.itsvg.in/api?id=TAIHAN86&icon=7&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM website ( https://gprm.itsvg.in ) -->
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taihan86&show_icons=true&locale=en&layout=compact" alt="taihan86" /></p>
 
