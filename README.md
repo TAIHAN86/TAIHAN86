@@ -25,6 +25,6 @@
 
 
 
-# ✍️ Random Dev Quotes<hr>
+## ✍️ Random Dev Quotes<hr>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
