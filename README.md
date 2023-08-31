@@ -1,7 +1,7 @@
 
 
 
-<img align="right" alt="coding" width="390" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+<img align="right" alt="coding" width="190" src="https://files.cults3d.com/uploaders/16086597/illustration-file/527e6d2e-f120-4c72-abfc-287040b4f69c/4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taihan86&label=Profile%20views&color=0e75b6&style=flat" alt="taihan86" /> </p>
 
