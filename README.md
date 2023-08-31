@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="390" src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif">
 
-<p align="left"> <img src="https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZ3JhbW1lcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="taihan86" /> </p>
+<p align="left"> <img src="" alt="taihan86" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
