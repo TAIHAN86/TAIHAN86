@@ -1,7 +1,7 @@
 
 
 
-<img align="right" alt="coding" width="190" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcults3d.com%2Fen%2F3d-model%2Fgame%2Fdinosaur-game&psig=AOvVaw2iRMSOZVxr4O6_aaiia0_8&ust=1693588447897000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjV0eCyh4EDFQAAAAAdAAAAABAp">
+<img align="right" alt="coding" width="190" src="https://files.cults3d.com/uploaders/16086597/illustration-file/527e6d2e-f120-4c72-abfc-287040b4f69c/4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taihan86&label=Profile%20views&color=0e75b6&style=flat" alt="taihan86" /> </p>
 
