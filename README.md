@@ -14,7 +14,8 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TAIHAN86&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TAIHAN86&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TAIHAN86&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <hr>
 
